@@ -1,0 +1,29 @@
+/* ========================================
+ * CSS written here will override Tachyons
+ * ======================================== */
+ .cold {
+   color: #63beff;
+   background-color: #ffd9bc;
+   background-image:url(/cold.gif);
+   background-size: 25%;
+   background-repeat: no-repeat;
+   background-position: center;
+ }
+
+ .warm{
+   color: #ffe263;
+   background-color: #8070ff;
+   background-image:url(/warm.gif);
+   background-size: 25%;
+   background-repeat: no-repeat;
+   background-position: center center;
+ }
+
+ .hot {
+   color: #ff6959;
+   background-color: #bfffbf;
+   background-image:url(/hot.gif);
+   background-size: 25%;
+   background-repeat: no-repeat;
+   background-position: center center;
+ }
